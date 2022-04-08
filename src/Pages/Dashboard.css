@@ -1,0 +1,48 @@
+.table-h-dash{
+    background-color: #3363FF;
+    color: white;
+}
+
+.table-h-dash th{
+    padding: 10px;
+}
+
+.table-dash{
+    width: 100%;
+}
+
+.table-dash tbody{
+    border-top: 3px #E3E5E9 solid;
+}
+
+.table-r-dash{
+    background-color: #99B1FF;
+    border-top: 2px #E3E5E9 solid;
+    padding: 15px;
+}
+
+.table-r-dash td{
+    padding: 10px;
+}
+
+.td-hidde{
+    height: 100%;
+}
+
+.form-user input{
+    margin-bottom: 5px;
+}
+
+.label-user{
+    color: white;
+    background-color: #3363FF;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 15px;
+    border-radius: 2px;
+}
+
+.select-filter{
+    width: 80%;
+    padding: 3px;
+}

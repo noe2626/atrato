@@ -1,0 +1,74 @@
+.modal-delete {
+    background-color: rgba(0,0,0, .85);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto;
+}
+
+.modal-dialog-delete {
+    background: #F8F8F9;
+    padding: 10px;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.modal-open-delete  {
+    display: grid;
+}
+
+.modal-container{
+    padding: 20px;
+}
+
+.head-card{
+    color: #001866;
+    width: 100%;
+}
+
+.data-title-del{
+    color: darkgray;
+    width: 100%;
+}
+
+.data-info-del{
+    color: black;
+    width: 100%;
+}
+
+.link-delete{
+    color: darkgray;
+    background-color: transparent;
+    border: 0;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+.link-close{
+    color: darkgray;
+    background-color: transparent;
+    border: 0;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
+
+.button-delete{
+    color: #F8F8F9;
+    width: 100%;
+    text-align: center;
+
+}
+
+.logo-del{
+    width: 100%;
+}

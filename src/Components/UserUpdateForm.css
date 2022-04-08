@@ -1,0 +1,46 @@
+.edit-container{
+    padding: 20px;
+}
+
+.head-card{
+    color: #001866;
+}
+
+.data-title{
+    color: black;
+}
+
+.data-info{
+    color: white;
+}
+
+.card-body{
+    background-color: #3363FF;
+    border-radius: 10px;
+}
+
+.container-status{
+    text-align: right;
+}
+
+.select-status{
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    background-color: #3363FF;
+    width: 100%;
+    text-align: center;
+    padding: 7px;
+}
+
+.link-edit{
+    color: darkgray;
+    background-color: transparent;
+    border: 0;
+}
+
+.link-close{
+    color: darkgray;
+    background-color: transparent;
+    border: 0;
+}
